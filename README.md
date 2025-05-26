@@ -15,4 +15,3 @@ A complete full-stack application to manage vending machine products.
 - 🔐 Protected routes for authentication
 - 📱 Fully responsive design
 
-## 📦 Folder Structure
